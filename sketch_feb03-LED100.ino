@@ -5,9 +5,9 @@ void setup(){
 }
 
 void loop(){
-  LED_blink(10, 300);
-  LED_blink(5,200);
-  LED_blink(3,100);
+  LED_blink(15, 300);
+  LED_blink(10,200);
+  LED_blink(5,100);
 }
 
 void LED_blink(int count, int interval){
