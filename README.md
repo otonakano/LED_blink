@@ -1,2 +1,2 @@
 # LED_blink
-Arduino Lronardoで、基板上のLEDを点滅させるスケッチ。
+Arduino Leonardoで、基板上のLEDを点滅させるスケッチ。
